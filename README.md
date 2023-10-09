@@ -2,7 +2,7 @@
 JavaScript Array is a single variable that is used to store elements of different data types.
 
 ## Array creat & show
-```bash
+```javascript
 const arr = ["a","b","s","r","x"];
 
 console.log("arr value:", arr[1]);
